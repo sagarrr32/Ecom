@@ -48,13 +48,13 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/adityabhardwajj/E-Commerce-Website.git
+   git clone https://github.com/sagarrr32/ecom.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd E-Commerce-Website
+   cd ecom
    ```
 
 3. Install the project dependencies:
@@ -112,9 +112,3 @@ To set up and run the project locally, follow these steps:
 
 
 
-## Contact
-
-- [Author](https://github.com/MMansy19)
-- [Website](https://mahmoud-mansy-portfolio.netlify.app/)
-- [Email](mailto:mahmoud2abdalfattah@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
